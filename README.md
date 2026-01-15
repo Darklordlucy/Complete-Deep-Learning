@@ -32,5 +32,3 @@ This repository is designed for:
 
 ---
 
-## Project Structure (Typical)
-
